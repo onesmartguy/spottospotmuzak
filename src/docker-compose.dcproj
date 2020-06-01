@@ -32,7 +32,7 @@
     <ProjectGuid>43d0a8c8-fc43-4de5-bcde-48ee46ed2511</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}</DockerServiceUrl>
-    <DockerServiceName>SpotToSpotMuzak.server</DockerServiceName>
+    <DockerServiceName>SpotToSpotMuzik.server</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include="docker-compose.yml" />
